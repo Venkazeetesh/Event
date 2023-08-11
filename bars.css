@@ -1,0 +1,23 @@
+.body{
+    background-color: wheat;
+}
+.bar{
+    height: 262.68px;
+    border: 1px solid black;
+}
+.container{
+    border: 1px solid black;
+    height: 262.68px;
+}
+.row-1{
+    border: 1px solid black;
+    height: 50px;
+    justify-content:left;
+    
+}
+.col-1{
+    border: 1px solid black;
+}
+.row-1{
+    paddin
+}

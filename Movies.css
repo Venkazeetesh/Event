@@ -1,0 +1,177 @@
+*{
+    color: white;
+}
+.header-container{
+    height:64px;background-color:#333545;
+}
+.below-nav{
+    background-color:#333545;
+    
+}
+.header-row-1{
+    height:64px;
+}
+.header-row-col-1{
+    height:64px;justify-content:center;
+}
+.header-img{
+    background-size:cover;height: 70px;width:120px;filter:brightness(120%);margin-left:100px;padding-top:25px;
+    padding: 1px;
+}
+.header-2{
+    height:64px;justify-content:center;padding-top:25px;
+    padding: 14px;
+}
+.input-group{
+    width: 540px;margin-left:200px;justify-content:start
+}
+.header-2col-3{
+    height:64px
+}
+.header-2-container{
+    height:64px;
+    color:white;
+    padding-left: 100px;
+}
+.header-2-container-row{
+    height:64px;
+  
+}
+.header-2-container-row-col{
+    height:64px;padding-top:10px;
+    color: white;
+   
+}
+.header-2-container-row-col-1{
+    height:64px;padding-top:19px;
+    color: white;
+    
+}
+.maincontent{
+    height:1200px;
+    margin-top:83px;
+   
+  
+}
+.hero-caousel{
+    height: 200px;
+    width: 100%;
+
+ 
+}
+.fonts-maincontent{
+    color:black;font-size:30px;padding:0 0 300px 0;font-weight:bolder;opacity:78%
+}
+
+
+.content .feed-list{
+    height:20px;
+    font-weight: bolder;
+    font-size: 34px;
+}
+
+a{
+    text-decoration: none;
+}
+img{
+    border-radius:15px 15px 15px 15px;
+}
+.card-text{
+    opacity: 70%;
+    line-height:20px;
+}
+.card-movie{
+    padding: 0%;
+}
+.card-body{
+    padding: 0;
+}
+.movie-cards{
+    line-height: 20px;
+    padding: 0%;
+}
+.call{
+    line-height: 10px;
+}
+
+
+.last-line>col-3{
+    padding-left: 204px;
+}
+*{
+    color:black;
+} /* FOOter css*/
+.footer{
+    height: 83px;
+   
+    background-color: #313035;
+}
+.listur{
+    padding-left: 164px;
+    padding:22px;
+    color:white;
+    font-weight:bolder;
+}
+.icon{
+    margin:24px;
+    padding-left:72px;
+    color: wheat;
+}
+.paraz{
+    color: white;
+    margin: 22px;
+}
+.contact-info{
+    color: white;
+    text-align: center;
+}
+.buttoncol{
+    padding: 8px 2px 15px 0;
+}
+.footer-1{
+    height: 112px;
+    background-color: #313035;
+    opacity: 70%;
+}
+.footrow-1{
+    color: white;
+    height: 82px;
+    justify-content:space-evenly;
+   
+}
+.footer-1-img{
+    background-image: -o-repeating-linear-gradient(2px);
+    height: 50px;
+    width: 50px;
+    color: white;
+    margin-left:9px;
+    padding-left: 0px;
+    font-size: small;
+}
+.footer-1-word{
+    padding-top: 2px;
+    font-size: 7px;
+    color: wheat;
+}
+.last-line{
+    color: white;
+}
+.footer-img-2{
+    font-size: 50px;
+    padding-left: 41px;
+    margin: -16px;
+}
+.book{
+    padding-left: 35px;
+    color: white;
+}
+.img{
+    padding-left:114px;
+    font-size: 45px;
+}
+.subs{
+    color: wheat;
+    font-size:15px;
+    padding-top:4px;
+    
+}
